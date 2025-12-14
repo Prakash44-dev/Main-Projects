@@ -1,15 +1,14 @@
-# Python DSA 🚀
+# Main Projects 🚀
 
-This repository documents my learning and practice of **Data Structures and Algorithms using Python**.
+This repository contains my **major academic and personal projects**.
 
-## 📌 What this repository will contain
-- Core Python-based DSA concepts
-- Problem-solving approaches
-- Practice problems from platforms like LeetCode
-- Clean and well-documented code
+## 📌 Contents
+- Complete project source code
+- Documentation
+- Screenshots and explanations
 
-## 🎯 Objective
-To build strong problem-solving skills and maintain consistent DSA practice.
+## 🎯 Purpose
+To showcase real-world problem-solving and project implementation skills.
 
 ## 📅 Status
-Repository initialized. Content will be added progressively.
+Repository initialized.
